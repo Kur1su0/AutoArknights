@@ -1,0 +1,6 @@
+win32api
+win32con
+win32gui
+PIL
+numpy
+opencv
